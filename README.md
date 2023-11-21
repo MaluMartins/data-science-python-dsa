@@ -1,2 +1,2 @@
-# data-science-python-dsa
-Curso de Fundamentos de Linguagem Python Para Análise de Dados e Data Science da Data Science Academy.
+# Formação em Ciência de Dados
+Formação em ciência de dados do professor Fernando Amaral, lecionada através da plataforma Udemy.
